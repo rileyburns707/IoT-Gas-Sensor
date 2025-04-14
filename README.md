@@ -8,12 +8,12 @@ When the user purchases this device they will receive a 3D printed case with ele
 Note: it is worth noting that the 0-4095 values are not precise values of the level of gas detected. The 0-4095 range represents the digital output of an Analog-to-Digital Converter (ADC). It is a measure of the voltage level read by the sensor, not the gas concentration. Once calibrated a more accurate range can be displayed.
 
 ## Bill of Materials
-|  Quantity  |  Part Number   | Reference Designator |              Description           |
-|  --------- | -------------- | -------------------- | ---------------------------------- |
-|      1     |       |    S5, S6, S7, S8    |         MQ5 Sensor         |
-|      2     |    732-5017-ND |      PL2, PL3        |       LED diode        |
-|      1     |    445-5242-1-ND  |         D1           | Piezoelectronic buzzer |
-|      1     |       |         D2           |       10k Ohm resistor     |
-|      1     |  |    Q1, Q2, Q3, Q4    |      5.6k Ohm resistor   |
-|      1     |  |    S1, S2, S3, S4    |             M5StickC+          |
-|           |                 |                      |         Printed Circuit Board      |
+|  Quantity  |      Part Number      |              Description           |
+|  --------- | --------------------- | ---------------------------------- |
+|      1     |    5032-333105-ND     |             MQ5 Sensor             |
+|      2     |      732-5017-ND      |             LED diode              |
+|      1     |     445-5242-1-ND     |      Piezoelectronic buzzer        |
+|      1     |    4CT52R103JTR-ND    |        10k Ohm resistor            |
+|      1     | 13-CFR-50JB-52-5K6-ND |         5.6k Ohm resistor          |
+|      1     |                       |              M5StickC+             |
+|            |                       |      Printed Circuit Board         |
